@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible"content="IE=edge=>">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Arquitectura de la informacion</title>
+</head>
+<body>
+  <header>
+    <ul>
+    </li>
+        <a href="#"> 
+         <img src="https://res-console.cloudinary.com/dldbk2l74/thumbnails/transform/v1/image/upload/Yl9hdXRvOnByZWRvbWluYW50LGNfcGFkLGhfMzAwLHdfMzAwLGZfanBnLGZsX2xvc3N5LmFueV9mb3JtYXQucHJlc2VydmVfdHJhbnNwYXJlbmN5LnByb2dyZXNzaXZl/v1/Q2FwdHVyYV9kZV9wYW50YWxsYV8yMDIzLTExLTA2XzE0MDQ1Ml9sd21nZXI=/template_primary" alt="Logo pinteres" width="120" height="120"></a>
+        <a href="#"></a> 
+         <img src="https://res-console.cloudinary.com/dldbk2l74/thumbnails/transform/v1/image/upload/Yl9hdXRvOnByZWRvbWluYW50LGNfcGFkLGhfMzAwLHdfMzAwLGZfanBnLGZsX2xvc3N5LmFueV9mb3JtYXQucHJlc2VydmVfdHJhbnNwYXJlbmN5LnByb2dyZXNzaXZl/v1/Q2FwdHVyYV9kZV9wYW50YWxsYV8yMDIzLTExLTA2XzE0MDQxN19idmcyYnk=/template_primary" alt="Inicio" width="120" height="120"></a>
+        <a href="#">
+         <img src="https://res-console.cloudinary.com/dldbk2l74/thumbnails/transform/v1/image/upload/Yl9hdXRvOnByZWRvbWluYW50LGNfcGFkLGhfMzAwLHdfMzAwLGZfanBnLGZsX2xvc3N5LmFueV9mb3JtYXQucHJlc2VydmVfdHJhbnNwYXJlbmN5LnByb2dyZXNzaXZl/v1/Q2FwdHVyYV9kZV9wYW50YWxsYV8yMDIzLTExLTA2XzE0MDQxN19idmcyYnk=/template_primary" alt="Explorar" width="120" height="120"></a>
+        <a href="#">
+          <img src="https://res-console.cloudinary.com/dldbk2l74/thumbnails/transform/v1/image/upload/Yl9hdXRvOnByZWRvbWluYW50LGNfcGFkLGhfMzAwLHdfMzAwLGZfanBnLGZsX2xvc3N5LmFueV9mb3JtYXQucHJlc2VydmVfdHJhbnNwYXJlbmN5LnByb2dyZXNzaXZl/v1/Q2FwdHVyYV9kZV9wYW50YWxsYV8yMDIzLTExLTA2XzE0MDQyOV9kYnpwMWM=/template_primary" alt="crear" width="120" height="120"></a>
+        <a href="#">
+         <img src="https://res-console.cloudinary.com/dldbk2l74/thumbnails/transform/v1/image/upload/Yl9hdXRvOnByZWRvbWluYW50LGNfcGFkLGhfMzAwLHdfMzAwLGZfanBnLGZsX2xvc3N5LmFueV9mb3JtYXQucHJlc2VydmVfdHJhbnNwYXJlbmN5LnByb2dyZXNzaXZl/v1/Q2FwdHVyYV9kZV9wYW50YWxsYV8yMDIzLTExLTA2XzE0MDQ0N19rcnAyazI=/template_primary" alt="Buscador" width="200" height="50"></a>
+        <a href="#">
+         <img src="https://res-console.cloudinary.com/dldbk2l74/thumbnails/transform/v1/image/upload/Yl9hdXRvOnByZWRvbWluYW50LGNfcGFkLGhfMzAwLHdfMzAwLGZfanBnLGZsX2xvc3N5LmFueV9mb3JtYXQucHJlc2VydmVfdHJhbnNwYXJlbmN5LnByb2dyZXNzaXZl/v1/Q2FwdHVyYV9kZV9wYW50YWxsYV8yMDIzLTExLTA2XzE0MDMzNV9peXd6MHk=/template_primary" alt="Campana" width="120"></a>
+        <a href="#">
+          <img src="https://res-console.cloudinary.com/dldbk2l74/thumbnails/transform/v1/image/upload/Yl9hdXRvOnByZWRvbWluYW50LGNfcGFkLGhfMzAwLHdfMzAwLGZfanBnLGZsX2xvc3N5LmFueV9mb3JtYXQucHJlc2VydmVfdHJhbnNwYXJlbmN5LnByb2dyZXNzaXZl/v1/Q2FwdHVyYV9kZV9wYW50YWxsYV8yMDIzLTExLTA2XzE0MDM0Ml91Z251cm8=/template_primary" alt="Puntos Suspensivos" width="120" height="120"></a>
+        <a href="#">
+          <img src="https://res-console.cloudinary.com/dldbk2l74/thumbnails/transform/v1/image/upload/Yl9hdXRvOnByZWRvbWluYW50LGNfcGFkLGhfMzAwLHdfMzAwLGZfanBnLGZsX2xvc3N5LmFueV9mb3JtYXQucHJlc2VydmVfdHJhbnNwYXJlbmN5LnByb2dyZXNzaXZl/v1/Q2FwdHVyYV9kZV9wYW50YWxsYV8yMDIzLTExLTA2XzE0MDM0N19kbzd3dHk=/template_primary" alt="Usuario" width="120" height="120"></a>
+        <a href="#">
+          <img src="https://res-console.cloudinary.com/dldbk2l74/thumbnails/transform/v1/image/upload/Yl9hdXRvOnByZWRvbWluYW50LGNfcGFkLGhfMzAwLHdfMzAwLGZfanBnLGZsX2xvc3N5LmFueV9mb3JtYXQucHJlc2VydmVfdHJhbnNwYXJlbmN5LnByb2dyZXNzaXZl/v1/Q2FwdHVyYV9kZV9wYW50YWxsYV8yMDIzLTExLTA2XzE0MDM1OV9lZmJiMmM=/template_primary" alt="Opciones desplegable" width="120" height="120"></a>
+        </li>
+      </ul>
+  </header>
+  <div>
+  <main>
+   <section>
+    <a href="#">
+      <img src="https://res-console.cloudinary.com/dldbk2l74/thumbnails/transform/v1/image/upload/Yl9hdXRvOnByZWRvbWluYW50LGNfcGFkLGhfMzAwLHdfMzAwLGZfanBnLGZsX2xvc3N5LmFueV9mb3JtYXQucHJlc2VydmVfdHJhbnNwYXJlbmN5LnByb2dyZXNzaXZl/v1/MzllY2Y1ODQtZWU1NC00Zjg5LWI1NDUtN2VkNWNjNzVmMDc2X3J3bHhqOA==/template_primary" alt="vaca" width="250" height="250"></a>
+      <a href="#">
+      <img src="https://res-console.cloudinary.com/dldbk2l74/thumbnails/transform/v1/image/upload/Yl9hdXRvOnByZWRvbWluYW50LGNfcGFkLGhfMzAwLHdfMzAwLGZfanBnLGZsX2xvc3N5LmFueV9mb3JtYXQucHJlc2VydmVfdHJhbnNwYXJlbmN5LnByb2dyZXNzaXZl/v1/OTBmNDgyZWItMzY0Ni00YzJhLWJhNGItOWNmMTlmNzk3M2I3X25iZXVjYg==/template_primary" alt="zorro" width="250" height="250"></a>
+      <a href="#">
+      <img src="https://res-console.cloudinary.com/dldbk2l74/thumbnails/transform/v1/image/upload/Yl9hdXRvOnByZWRvbWluYW50LGNfcGFkLGhfMzAwLHdfMzAwLGZfanBnLGZsX2xvc3N5LmFueV9mb3JtYXQucHJlc2VydmVfdHJhbnNwYXJlbmN5LnByb2dyZXNzaXZl/v1/YzY5ZjRhMTQtN2IzMy00YTRkLWFmYjctMDg2MDZlM2M3NjlkX3BwNWp5ZQ==/template_primary" alt="Gato" width=250" height=250"></a>
+      <a href="">
+      <img src="https://res-console.cloudinary.com/dldbk2l74/thumbnails/transform/v1/image/upload/Yl9hdXRvOnByZWRvbWluYW50LGNfcGFkLGhfMzAwLHdfMzAwLGZfanBnLGZsX2xvc3N5LmFueV9mb3JtYXQucHJlc2VydmVfdHJhbnNwYXJlbmN5LnByb2dyZXNzaXZl/v1/UHVwcHktZXllc19ieV9FSi1TdV9vbl9EZXZpYW50QXJ0X3h6NG9idA==/template_primary" alt="Perro" width="250" height="250"></a>
+      <a href="">
+      <img src="https://res-console.cloudinary.com/dldbk2l74/thumbnails/transform/v1/image/upload/Yl9hdXRvOnByZWRvbWluYW50LGNfcGFkLGhfMzAwLHdfMzAwLGZfanBnLGZsX2xvc3N5LmFueV9mb3JtYXQucHJlc2VydmVfdHJhbnNwYXJlbmN5LnByb2dyZXNzaXZl/v1/ZWNkZTBkYmYtMTM0Yi00ODMxLThmNDYtZmJmNGRhNjYxNTg4X3J2aHlwdQ==/template_primary" alt="Expeto Patronum" width="250" height="250"></a>
+    </section>
+  </main>
+</div>
+<div>
+  <aside>
+    <a href="#">
+    <img src="https://res-console.cloudinary.com/dldbk2l74/thumbnails/transform/v1/image/upload/Yl9hdXRvOnByZWRvbWluYW50LGNfcGFkLGhfMzAwLHdfMzAwLGZfanBnLGZsX2xvc3N5LmFueV9mb3JtYXQucHJlc2VydmVfdHJhbnNwYXJlbmN5LnByb2dyZXNzaXZl/v1/Q2FwdHVyYV9kZV9wYW50YWxsYV8yMDIzLTExLTA2XzE0MTMyNF9vdThpZTc=/template_primary" alt="Ayuda" width="200" height="200"></a>
+  </aside>
+</div>
+<div>
+<footer>
+    <p>  
+      <strong> Página creada por Cristina Alvitos</strong>
+    </p>
+  </footer>
+</div>
+  
+</body>
+</html>
